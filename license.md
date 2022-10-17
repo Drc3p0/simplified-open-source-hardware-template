@@ -3,21 +3,16 @@ An open source license guarantees that others can use, copy, modify, and contrib
 
 Legal work can be confusing, so adding one of these existing licenses to your repo greatly simplifies things. There are two ways you can include a license in your repo.
 
-### How to choose a license with GitHub:
-  When you create a new project on GitHub, you are given the option to select a license. [We advise using this option to easily include an open source license in your repo.](https://store.santansolar.com/product-category/solar-panels/)
+### How to add a license with GitHub:
+When you create a new project on GitHub, you are given the option to select a license. You can also copy and paste an existing license into your repository as a LICENSE.txt file. It will only take a minute to protect your hard work.
 
-repository-license-picker.png
-
-### How to upload a license
-You can copy and paste an existing license into your repository as a LICENSE.txt file. It will only take a minute to protect your hard work.
-
-#### Popular copyleft licenses include
+#### Popular copyleft software licenses include
 
 [Creative Commons Attribution, Share-Alike (BY-SA)](https://choosealicense.com/licenses/cc-by-sa-4.0/)
 
 [GNU General Public License (GPL)](https://choosealicense.com/licenses/gpl-3.0/)
 
-Hardware-Specific Licenses: [TAPR OHL](https://tapr.org/the-tapr-open-hardware-license/), [CERN OHL](https://ohwr.org/project/cernohl/wikis/home)
+Hardware-Specific Licenses: [General guide to licenses for non-software](https://choosealicense.com/non-software/), [TAPR OHL](https://tapr.org/the-tapr-open-hardware-license/), [CERN OHL](https://ohwr.org/project/cernohl/wikis/home)
 
 #### Permissive licenses include:
 
