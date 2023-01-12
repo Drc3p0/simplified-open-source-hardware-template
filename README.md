@@ -4,6 +4,8 @@ Open Hardware Project Template
 This repository serves as an example template to help you create great documentation for your Open Hardware projects.  It contains examples of the recommended files and filestructure that is commonly shared in open source hardware projects. Sharing all of these resources is optional, so please fill out everything you can, and delete the files you aren't using. 
 
 You can use this template and replace all of the files/text with your own documents.  
+There is a [tutorial in the works for using GitHub Pages](https://drc3p0.github.io/simplified-open-source-hardware-template-for-GitHub-Pages/) to make a simple website for hosting your documentation. 
+
 Here are a few examples of great documentation.  
 
 - [Infinite Noise TRNG (True Random Number Generator)](https://github.com/leetronics/infnoise)
