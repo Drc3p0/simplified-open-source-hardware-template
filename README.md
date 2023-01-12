@@ -6,7 +6,7 @@ This repository serves as an example template to help you create great documenta
 You can use this template and replace all of the files/text with your own documents.  
 Here are a few examples of great documentation.  
 
-- [Infinite Noise TRNG](True Random Number Generator)[https://github.com/leetronics/infnoise)
+- [Infinite Noise TRNG (True Random Number Generator)](https://github.com/leetronics/infnoise)
 - [TinyFPGA BX](https://github.com/tinyfpga/TinyFPGA-BX)
 - [USB Armory](https://github.com/usbarmory/usbarmory)
 
