@@ -6,13 +6,15 @@ This repository serves as an example template to help you create great documenta
 You can use this template and replace all of the files/text with your own documents.  
 Here are a few examples of great documentation.  
 
-- [Pixie Chroma open source documentation](https://github.com/connornishijima/Pixie_Chroma)  
-- [Slime VR how-to documentation](https://docs.slimevr.dev/)  
-- [MNT Reform open source documentation](https://source.mnt.re/reform/reform)  
+- [Infinite Noise TRNG](True Random Number Generator)[https://github.com/leetronics/infnoise)
+- [TinyFPGA BX](https://github.com/tinyfpga/TinyFPGA-BX)
+- [USB Armory](https://github.com/usbarmory/usbarmory)
+
+The proposed structure of folders within this template is based on the ['Best Practices for Open-Source Hardware' document published by the Open Source Hardware Association](http://www.oshwa.org/sharing-best-practices/).
 
 
-The proposed structure of folders within this template is based on the 'Best Practices for Open-Source Hardware' document published by the Open Source Hardware Association.
-http://www.oshwa.org/sharing-best-practices/
+You can also learn more about open source documentation through the [GitHub Open Source Guides](https://opensource.guide/)
+, but it is more geared towards software than it is hardware. 
 
 
 You are free to modify this document as it best suits your needs, by overwriting the text on each paragraph and adding/deleting any information or extra files that you consider useful.
@@ -69,7 +71,7 @@ Software requirements:
 
 Required tools:
 * Cable cutter
-
+* Phillips PH1 screwdriver
 
 Construction and Use
 ==================
