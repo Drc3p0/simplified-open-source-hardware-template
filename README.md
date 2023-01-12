@@ -10,7 +10,7 @@ Here are a few examples of great documentation.
 - [TinyFPGA BX](https://github.com/tinyfpga/TinyFPGA-BX)
 - [USB Armory](https://github.com/usbarmory/usbarmory)
 
-The proposed structure of folders within this template is based on the ['Best Practices for Open-Source Hardware' document published by the Open Source Hardware Association](http://www.oshwa.org/sharing-best-practices/).
+The proposed structure of folders within this template is based on the ['Best Practices for Open-Source Hardware' documentation published by the Open Source Hardware Association](http://www.oshwa.org/sharing-best-practices/).
 
 
 You can also learn more about open source documentation through the [GitHub Open Source Guides](https://opensource.guide/)
