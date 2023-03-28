@@ -43,7 +43,7 @@ Latest Additions
 
 Add to this section the last relevant changes or corrections that you have made to your project. It is important that you notify about changes that modify the behavior of your project or the outputs that you expect it to generate.
 
-Here's an example of changes to the latest version '0.1alpha':
+Here's an example of changes you could list:
 
 * Text examples added
 * Version numbers added
@@ -88,16 +88,16 @@ Folders
 
 The folder structure is very important for your project, because it will allow you to organize your projects and will also allow others to easily share changes or improvements. This structure isn't set in stone, however, so you can modify it so it suits your needs.
 
-Remember that inside every folder we strongly recommend you to include a file named 'readme.txt' where you can describe its contents.
+**Remember that inside every folder we strongly recommend you to include a file named 'readme.txt' where you can describe its contents.**
 
 Within the folder structure we recommend to include at least the following folders:
 
-* [*doc* / *documents*](https://github.com/Drc3p0/simplified-open-source-hardware-template/tree/main/documentation): Use this folder to enter all the documentation that you consider as necessary for your project. We recommend that you use free/open formats such as .odf or .txt files. If you wish to create it as a web page, name your main page as 'index.html' so it can be easily accessed in case someone copies the contents of the folders into a web server.
-* [*src* / *source code*](https://github.com/Drc3p0/simplified-open-source-hardware-template/tree/main/source%20code): Place into this folder all the control software's source code for your Open Hardware project. If you use an IDE such as Eclipse or Arduino, copy your project's folder inside the src folder.
-* [*dsn* / *design*](https://github.com/Drc3p0/simplified-open-source-hardware-template/tree/main/design%20files): Put all files relevant to the design inside of this folder.
+* *doc* / *documents*: Use this folder to enter all the documentation that you consider as necessary for your project. We recommend that you use free/open formats such as .odf or .txt files. If you wish to create it as a web page, name your main page as 'index.html' so it can be easily accessed in case someone copies the contents of the folders into a web server.
+* *src* / *source code*: Place into this folder all the control software's source code for your Open Hardware project. If you use an IDE such as Eclipse or Arduino, copy your project's folder inside the src folder.
+* *dsn* / *design*: Put all files relevant to the design inside of this folder.
   +  *main*: Inside of this folder you can put the original design files that may include, but are not limited to: 2D drawings, 3D designs, CAD files, component libraries and additional blueprints or technical drawings.
-  +  *aux*/ *auxiliary*: Put in here all the auxiliary design files that may help to build your project. Design auxiliary files may include 2D or 3D designs saved on data interchange formats, additional technical drawings, manufacture-ready formats, or additional graphic drawings.
-* [*extras*](https://github.com/Drc3p0/simplified-open-source-hardware-template/tree/main/extras): This is a folder for the remaining files. Here you can leave other files that may be required to manufacture your project or to make it work. You can add here, for example, a controller driver for a specific device, or links for relevant software, photos or videos.
+  +  *aux* / *auxiliary*: Put in here all the auxiliary design files that may help to build your project. Design auxiliary files may include 2D or 3D designs saved on data interchange formats, additional technical drawings, manufacture-ready formats, or additional graphic drawings.
+* *extras*: This is a folder for the remaining files. Here you can leave other files that may be required to manufacture your project or to make it work. You can add here, for example, a controller driver for a specific device, or links for relevant software, photos or videos.
 
 Acknowledgment of Responsibility/Liability Waiver
 ==============================
@@ -110,6 +110,6 @@ We recommend you to add a text similar to this in your projects:
 Licensing
 ==============
 
-Add here the license that your project's source code has been subjected to. You can read more about how to choose a license by reading the [license.txt](https://github.com/Drc3p0/simplified-open-source-hardware-template/blob/main/license.md) file, which you should replace entirely with the license you choose for your product. We would also love it if you add the attribution note for the template at the end of this file.
+Add here the license that your project's source code has been subjected to. You can read more about how to choose a license by reading the *license.txt* file, which you should replace entirely with the license you choose for your product. We would also love it if you add the attribution note for the template at the end of this file.
 
 > This README.md template has been developed by the openhardware.sv community in order to make project documentation easier. This template has been protected under a CC BY license. You can modify it and redistribute it as long as you keep this author attribution note.
