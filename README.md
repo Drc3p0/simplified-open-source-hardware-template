@@ -11,6 +11,8 @@ Here are a few examples of great documentation.
 - [Infinite Noise TRNG (True Random Number Generator)](https://github.com/leetronics/infnoise)
 - [TinyFPGA BX](https://github.com/tinyfpga/TinyFPGA-BX)
 - [USB Armory](https://github.com/usbarmory/usbarmory)
+- [Pixie Chroma](https://github.com/connornishijima/Pixie_Chroma) 
+
 
 The proposed structure of folders within this template is based on the ['Best Practices for Open-Source Hardware' documentation published by the Open Source Hardware Association](http://www.oshwa.org/sharing-best-practices/).
 
@@ -92,7 +94,7 @@ The folder structure is very important for your project, because it will allow y
 
 Within the folder structure we recommend to include at least the following folders:
 
-* *doc* / *documents*: Use this folder to enter all the documentation that you consider as necessary for your project. We recommend that you use free/open formats such as .odf or .txt files. If you wish to create it as a web page, name your main page as 'index.html' so it can be easily accessed in case someone copies the contents of the folders into a web server.
+* *docs* / *documents*: Use this folder to enter all the documentation that you consider as necessary for your project. We recommend that you use free/open formats such as .odf or .txt files. If you wish to create it as a web page, name your main page as 'index.html' so it can be easily accessed in case someone copies the contents of the folders into a web server.
 * *src* / *source code*: Place into this folder all the control software's source code for your Open Hardware project. If you use an IDE such as Eclipse or Arduino, copy your project's folder inside the src folder.
 * *dsn* / *design*: Put all files relevant to the design inside of this folder.
   +  *main*: Inside of this folder you can put the original design files that may include, but are not limited to: 2D drawings, 3D designs, CAD files, component libraries and additional blueprints or technical drawings.
